@@ -1,0 +1,200 @@
+2020-06-28T14:53:59+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T14:54:13+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T14:54:45+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T14:55:53+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T14:59:03+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T14:59:43+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T14:59:58+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:00:34+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:00:54+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:00:57+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:01:20+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:01:35+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:02:00+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:02:19+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:02:24+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:02:29+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:02:40+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:02:45+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:02:45+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:04:32+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:05:28+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:05:31+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:12:11+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:28:17+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+
+2020-06-28T15:29:17+00:00 CRITICAL Uncaught Error: Call to undefined function xoo_el_print_notices() in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php:17
+Stack trace:
+#0 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include()
+#1 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/xoo-el-form.php(47): Xoo_Helper->get_template('global/xoo-el-l...', Array)
+#2 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-framework/class-xoo-helper.php(36): include('/home/nhom8tmdt...')
+#3 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/includes/xoo-el-functions.php(154): Xoo_Helper->get_template('xoo-el-form.php', Array, '', false)
+#4 /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-conten in /home/nhom8tmdt/domains/chitrung.bmic.edu.vn/public_html/wp-content/plugins/easy-login-woocommerce/templates/global/xoo-el-login-section.php on line 17
+

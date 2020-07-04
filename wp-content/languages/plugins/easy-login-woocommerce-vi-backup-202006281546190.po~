@@ -1,0 +1,271 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Login/Signup Popup ( Inline Form + Woocommerce )\n"
+"POT-Creation-Date: 2020-06-22 13:49+0530\n"
+"PO-Revision-Date: 2020-06-28 15:45+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.0; wp-5.3.4"
+
+#: admin/includes/class-xoo-el-menu-settings.php:15
+msgid "Login/Signup Popup"
+msgstr ""
+
+#: admin/xoo-el-admin-settings.php:61
+msgid "General"
+msgstr ""
+
+#: admin/xoo-el-admin-settings.php:62
+msgid "Advanced"
+msgstr ""
+
+#: admin/xoo-el-admin-settings.php:275
+msgid "Settings"
+msgstr ""
+
+#: includes/class-xoo-el-core.php:129
+msgid ""
+"This version of login/signup popup is not compatible with the current "
+"version of OTP Login plugin. <br>Please update the OTP login plugin."
+msgstr ""
+
+#: includes/class-xoo-el-core.php:151
+#, php-format
+msgid ""
+"You have <a href=\"%1$s\">outdated templates</a> in your theme which are no "
+"longer supported. Please fetch a new copy from the plugin folder.<br>"
+"Afterwards go to <a href=\"%1$s\">Settings</a> & click on check again. Until "
+"then plugin will use the default templates"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:67
+#: includes/class-xoo-el-form-handler.php:71
+msgid "Error:"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:71
+msgid "Username is required."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:91
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:99
+msgid "Incorrect Email or Username."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:115
+msgid "Login successful"
+msgstr "Đăng nhập thành công"
+
+#: includes/class-xoo-el-form-handler.php:202
+msgid "Please enter an account password."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:206
+msgid "Passwords don't match"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:244
+msgid "Registration successful"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:249
+msgid "Registration successful. Please <a class=\"xoo-el-login-tgr\">Login</a>"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:254
+msgid ""
+"Your account was created successfully and a password has been sent to your "
+"email address"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:298
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:302
+msgid ""
+"An account is already registered with your email address. Please log in."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:310
+msgid "Please enter a valid account username."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:314
+msgid ""
+"An account is already registered with that username. Please choose another."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:341
+msgid ""
+"Couldn&#8217;t register you&hellip; please contact us if you continue to "
+"have problems."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:494
+msgid ""
+"A password reset email has been sent to the email address on file for your "
+"account, but may take several minutes to show up in your inbox. Please wait "
+"at least 10 minutes before attempting another reset."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:526
+msgid "<strong>ERROR</strong>: Enter a username or email address."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:530
+msgid ""
+"<strong>ERROR</strong>: There is no user registered with that email address."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:551
+msgid "<strong>ERROR</strong>: Invalid username or email."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:574
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:576
+#, php-format
+msgid "Site Name: %s"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:578
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:579
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:580
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:584
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:614
+msgid "The email could not be sent."
+msgstr ""
+
+#: includes/class-xoo-el-form-handler.php:614
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:144
+msgid "Please fill both the fields"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:148
+msgid "Enter valid email address"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:149
+msgid "Password must be minimum 6 characters."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:150
+msgid "Passwords don't match."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:151
+msgid "First name must be minimum 3 characters."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:152
+msgid "Last name must be minimum 3 characters."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:153
+msgid "Please accept the terms & conditions."
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:189
+msgid "My account"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:195
+#: includes/class-xoo-el-frontend.php:199
+msgid "Logout"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:209
+#: includes/class-xoo-el-frontend.php:224 templates/global/xoo-el-header.php:28
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: includes/class-xoo-el-frontend.php:214
+msgid "Signup"
+msgstr ""
+
+#: includes/class-xoo-el-frontend.php:219
+msgid "Lost Password"
+msgstr ""
+
+#: includes/xoo-framework/class-xoo-helper.php:222
+msgid ""
+"You're using outdated version of templates, please fetch a new copy from the "
+"plugin templates folder"
+msgstr ""
+
+#: includes/xoo-framework/class-xoo-helper.php:232
+msgid "Templates Status"
+msgstr ""
+
+#: includes/xoo-framework/class-xoo-helper.php:234
+msgid "How to override?"
+msgstr ""
+
+#: templates/global/xoo-el-header.php:31
+#: templates/global/xoo-el-register-section.php:29
+msgid "Sign Up"
+msgstr "Đăng ký"
+
+#: templates/global/xoo-el-login-section.php:26
+#: templates/global/xoo-el-lostpw-section.php:25
+msgid "Username / Email"
+msgstr "Tài khoản / Email"
+
+#: templates/global/xoo-el-login-section.php:35
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: templates/global/xoo-el-login-section.php:52
+msgid "Remember me"
+msgstr "Ghi nhớ đăng nhập"
+
+#: templates/global/xoo-el-login-section.php:54
+msgid "Forgot Password?"
+msgstr "Quên mật khẩu?"
+
+#: templates/global/xoo-el-login-section.php:61
+msgid "Sign In"
+msgstr "Đăng nhập"
+
+#: templates/global/xoo-el-lostpw-section.php:36
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: templates/global/xoo-el-lostpw-section.php:52
+msgid "Email Reset Link"
+msgstr ""
